@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Documents\VS_Projects\EasyOrder\bin\Release\EasyOrder.exe.config
+C:\Users\Lenovo\Documents\VS_Projects\EasyOrder\bin\Release\EasyOrder.exe
+C:\Users\Lenovo\Documents\VS_Projects\EasyOrder\bin\Release\EasyOrder.pdb
+C:\Users\Lenovo\Documents\VS_Projects\EasyOrder\obj\Release\EasyOrder.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\VS_Projects\EasyOrder\obj\Release\EasyOrder.Form1.resources
+C:\Users\Lenovo\Documents\VS_Projects\EasyOrder\obj\Release\EasyOrder.Properties.Resources.resources
+C:\Users\Lenovo\Documents\VS_Projects\EasyOrder\obj\Release\EasyOrder.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\VS_Projects\EasyOrder\obj\Release\EasyOrder.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\VS_Projects\EasyOrder\obj\Release\EasyOrder.exe
+C:\Users\Lenovo\Documents\VS_Projects\EasyOrder\obj\Release\EasyOrder.pdb
